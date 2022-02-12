@@ -1,0 +1,24 @@
+.para {
+  margin-top: 2rem;
+  padding: 0.5rem;
+  background-color: hsl(var(--hue), var(--saturation), 52%);
+  box-shadow: 7px 5px 5px darkolivegreen;
+  margin-bottom: 1rem;
+}
+
+.qoute {
+  font-family: cursive;
+  padding: 0.5rem;
+  background-color: hsl(var(--hue), var(--saturation), 52%);
+  color: hsl(var(--hue), var(--saturation), 20%);
+  box-shadow: 7px 5px 5px darkolivegreen;
+  margin-bottom: 1rem;
+}
+
+.home-image {
+  width: 100%;
+  height: auto;
+  box-shadow: 7px 5px 5px darkolivegreen;
+}
+
+/* landing page image free downloaded from https://www.pexels.com/photo/spiral-notebooks-placed-on-white-cloth-with-burning-candle-7150986/ */

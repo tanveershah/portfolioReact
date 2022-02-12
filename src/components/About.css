@@ -1,0 +1,59 @@
+.heading {
+  font-weight: bold;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 2.5rem;
+}
+
+.cards {
+  flex-grow: 1;
+  flex-shrink: 1;
+  margin-bottom: 1rem;
+  background-color: hsl(var(--hue), var(--saturation), 55%);
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 7px 5px 5px darkolivegreen;
+  overflow: auto;
+}
+
+.cards h3 {
+  border-bottom: darkgrey solid 0.1rem;
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.cards div {
+  margin-top: 0.5rem;
+}
+
+.cards img {
+  width: 35%;
+  height: auto;
+}
+
+.cards:nth-of-type(even) img {
+  float: left;
+  margin-right: 0.5rem;
+}
+
+.cards:nth-of-type(odd) img {
+  float: right;
+  margin-left: 0.5rem;
+}
+
+/* landing page image free downloaded from https://www.pexels.com/photo/spiral-notebooks-placed-on-white-cloth-with-burning-candle-7150986/ */
+
+/*
+ portfolio images downloaded from
+ https://www.pexels.com/search/technology/
+
+ Photo by Ketut Subiyanto from Pexels
+ Photo by fauxels from Pexels
+ Photo by Miguel Á. Padriñán from Pexels
+ Photo by Polina Zimmerman from Pexels
+ */
