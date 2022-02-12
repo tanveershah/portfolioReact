@@ -38,16 +38,22 @@ const About = () => {
             <h3>Experience</h3>
             <img src="./images/experience.jpg" alt="" />
             <p>
-              Currently, I am working as an Instructional Associate at Fullstack
-              Academy NY for their university web development program.
+              I worked as an Instructional Associate and Teaching Fellow at
+              Fullstack Academy NY for their university web development
+              program.As an instructional associate I implemented agile
+              methodologies to provide ongoing technical and project management
+              guidance to students learning full stack JavaScript software
+              development. In addition, I lead group code reviews and stand ups,
+              and conducted technical admissions interviews for prospective
+              students.
             </p>
 
             <p>
               <strong>Experience outside USA</strong>
             </p>
             <p>
-              I worked as an assistant professor before moving to the United
-              States.
+              I worked as an assistant professor in the field of education
+              before moving to the United States.
             </p>
           </article>
           <article className="cards">
@@ -56,6 +62,37 @@ const About = () => {
             <p>Software Engineering Immersive, Fullstack Academy, NY</p>
 
             <p>Doctor of Education, Dowling College, Long Island, NY</p>
+
+            <p>
+              Note: Photos used in Home and Portfolio pages were downloaded from
+              following free public sources, photo credits included were
+              mentioned on their respective linkes:
+            </p>
+            <p>
+              landing page image free downloaded from
+              https://www.pexels.com/photo/spiral-notebooks-placed-on-white-cloth-with-burning-candle-7150986/
+              portfolio images downloaded from
+              https://www.pexels.com/search/technology/ Photo by Ketut Subiyanto
+              from Pexels Photo by fauxels from Pexels Photo by Miguel Á.
+              Padriñán from Pexels Photo by Polina Zimmerman from Pexels
+            </p>
+          </article>
+          <article className="cards">
+            <h3>Portfolio and Home pages Photos</h3>
+            <img src="./images/homeImage.jpg" alt="" />
+            <p>
+              Photos used in Home and Portfolio pages were downloaded from
+              following free public sources, photo credits included were
+              mentioned on their respective linkes:
+            </p>
+            <p>
+              landing page image free downloaded from
+              https://www.pexels.com/photo/spiral-notebooks-placed-on-white-cloth-with-burning-candle-7150986/
+              portfolio images downloaded from
+              https://www.pexels.com/search/technology/ Photo by Ketut Subiyanto
+              from Pexels Photo by fauxels from Pexels Photo by Miguel Á.
+              Padriñán from Pexels Photo by Polina Zimmerman from Pexels
+            </p>
           </article>
         </section>
       </main>

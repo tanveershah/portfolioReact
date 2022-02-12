@@ -1,9 +1,8 @@
 .para {
-  margin-top: 2rem;
+  margin-top: 1rem;
   padding: 0.5rem;
   background-color: hsl(var(--hue), var(--saturation), 52%);
   box-shadow: 7px 5px 5px darkolivegreen;
-  margin-bottom: 1rem;
 }
 
 .qoute {
