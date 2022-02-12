@@ -63,18 +63,10 @@ const About = () => {
 
             <p>Doctor of Education, Dowling College, Long Island, NY</p>
 
+            <p>Master degree in HRM</p>
             <p>
-              Note: Photos used in Home and Portfolio pages were downloaded from
-              following free public sources, photo credits included were
-              mentioned on their respective linkes:
-            </p>
-            <p>
-              landing page image free downloaded from
-              https://www.pexels.com/photo/spiral-notebooks-placed-on-white-cloth-with-burning-candle-7150986/
-              portfolio images downloaded from
-              https://www.pexels.com/search/technology/ Photo by Ketut Subiyanto
-              from Pexels Photo by fauxels from Pexels Photo by Miguel Á.
-              Padriñán from Pexels Photo by Polina Zimmerman from Pexels
+              A 64-hour course in American Culture and English, Hunter College
+              Manhattan New York City USA
             </p>
           </article>
           <article className="cards">
