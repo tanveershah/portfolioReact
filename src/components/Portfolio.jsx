@@ -6,7 +6,7 @@ const Portfolio = () => {
   return (
     <main className="main">
       <section className="card">
-        <h2 className="heading">Portfolio</h2>
+        {/* <h2 className="heading">Portfolio</h2> */}
         <article className="cards">
           <h3>Vinto App</h3>
           <img src="./images/vinto.jpg" alt="" />

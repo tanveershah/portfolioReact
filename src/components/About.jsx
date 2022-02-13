@@ -6,7 +6,7 @@ const About = () => {
     <>
       <main className="main">
         <section className="card">
-          <h2 className="heading">About</h2>
+          {/* <h2 className="heading">About</h2> */}
           <article className="cards">
             <h3>Experience</h3>
             <img src="./images/experience.jpg" alt="" />
@@ -64,8 +64,11 @@ const About = () => {
             <img src="./images/music.jpg" alt="" />
             <p>
               I am not a singer but love to listen music and can play my
-              favorite songs on piano. I like a variety of music including rock,
-              pop, country and indian classic.
+              favorite songs on piano.{' '}
+            </p>
+            <p>
+              I like a variety of music including rock, pop, country and indian
+              classic.
             </p>
           </article>
 

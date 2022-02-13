@@ -12,6 +12,7 @@ html {
 body {
   height: 100vh;
   margin: 0;
+  padding: 0;
 }
 
 #app {
@@ -30,11 +31,11 @@ body {
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
-  align-items: flex-start;
+  align-items: center;
   justify-content: left;
   background-color: hsl(var(--hue), var(--saturation), 78%);
   height: 91vh;
-  width: 90%;
+  width: 100%;
   overflow: auto;
   margin: 0 auto;
   color: hsl(var(--font-hue), var(--font-saturation), var(--font-lightness));

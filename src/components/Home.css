@@ -3,10 +3,12 @@
   padding: 0.5rem;
   background-color: hsl(var(--hue), var(--saturation), 52%);
   box-shadow: 7px 5px 5px darkolivegreen;
+  width: 88%;
 }
 
 .qoute {
   font-family: cursive;
+  width: 88%;
   padding: 0.5rem;
   background-color: hsl(var(--hue), var(--saturation), 52%);
   color: hsl(var(--hue), var(--saturation), 20%);
@@ -15,7 +17,7 @@
 }
 
 .home-image {
-  width: 100%;
+  width: 89%;
   height: auto;
   box-shadow: 7px 5px 5px darkolivegreen;
 }

@@ -6,7 +6,6 @@ const Home = () => {
     <main className="main">
       <div className="para">
         <h2>A fullstack engineer, teacher and traveller!</h2>
-        <br />
         <p>
           A skilled software engineer looking forward to work in a fast-paced
           organization to utilize technical skills and creative thinking. A

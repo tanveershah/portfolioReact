@@ -7,14 +7,14 @@
   flex-wrap: wrap;
   align-items: center;
   flex-direction: column;
+  margin-bottom: 2.5rem;
 }
 
 .cards {
   flex-grow: 1;
   flex-shrink: 1;
-  margin-bottom: 1rem;
   background-color: hsl(var(--hue), var(--saturation), 55%);
-  /* padding: 1rem; */
+  padding: 1rem;
   margin: 1rem 0;
   box-shadow: 7px 5px 5px darkolivegreen;
   overflow: auto;
@@ -27,12 +27,8 @@
   margin-bottom: 0.5rem;
 }
 
-.cards div {
-  margin-top: 0.5rem;
-}
-
 .cards img {
-  width: 35%;
+  width: 20%;
   height: auto;
 }
 
