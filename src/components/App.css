@@ -34,11 +34,11 @@ body {
   justify-content: left;
   background-color: hsl(var(--hue), var(--saturation), 78%);
   height: 91vh;
-  width: 80%;
+  width: 90%;
   overflow: auto;
   margin: 0 auto;
   color: hsl(var(--font-hue), var(--font-saturation), var(--font-lightness));
-  padding: 1rem;
+  margin-top: 1rem;
   box-shadow: 3px 3px hsl(var(--hue), var(--saturation), 76%),
     -1em 0 0.4em hsl(var(--hue), var(--saturation), 76%);
   margin-bottom: 1rem;

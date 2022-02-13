@@ -13,12 +13,12 @@
 .cards {
   flex-grow: 1;
   flex-shrink: 1;
-  margin-bottom: 1rem;
   background-color: hsl(var(--hue), var(--saturation), 55%);
   padding: 1rem;
   margin: 1rem 0;
   box-shadow: 7px 5px 5px darkolivegreen;
   overflow: auto;
+  width: 90%;
 }
 
 .cards h3 {
